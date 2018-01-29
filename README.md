@@ -1,7 +1,7 @@
 # footwars
 A simple EA Sports Fifa 18 score predictor that implements OOP concepts.
 
-This project can help you choose a more powerful team over your opponent's. Comparison between teams are solemly based on player stats and the formation and playing techniques implemented by the selected 8 teams.
+This project can help you choose a more powerful team over your opponent's. Comparison between teams is solely based on player stats and the formation and playing techniques implemented by the selected 8 teams.
 
 The 8 teams that we have selected are - 
 1. Atletico Madrid
